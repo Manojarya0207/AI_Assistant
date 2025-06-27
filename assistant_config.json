@@ -1,0 +1,37 @@
+{
+    "greeting_message": "Hello Manoj! How can I assist you today?",
+    "schedule": {
+        "monday": "9:00 AM: Team Meeting, 1:00 PM: Lunch with Sarah",
+        "tuesday": "10:00 AM: Project Presentation",
+        "wednesday": "Free day",
+        "thursday": "2:00 PM: Client Meeting",
+        "friday": "4:00 PM: Weekly Wrap-up",
+        "saturday": "9:00 AM: DSA class, 6:00 PM: Relax",
+        "sunday": "Family time and relaxation"
+    },
+    "news_api": {
+        "key": "your_newsapi_key", 
+        "country": "in"
+    },
+    "email": {
+        "address": "your_email@example.com",
+        "password": "your_email_password"
+    },
+    "music_folder": "C:\\Users\\YourName\\Music",
+    "jokes": [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "What do you call fake spaghetti? An impasta!",
+        "Why was the math book sad? Because it had too many problems!",
+        "Why did the scarecrow win an award? Because he was outstanding in his field!"
+    ],
+    "reminders": {
+        "daily": [
+            "Drink water every hour",
+            "Take a 5-minute break every 30 minutes of work"
+        ],
+        "custom": {
+            "2023-12-25": "Wish everyone a Merry Christmas!",
+            "2024-01-01": "Welcome the New Year with a resolution."
+        }
+    }
+}
